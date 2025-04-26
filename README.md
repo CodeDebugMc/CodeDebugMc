@@ -1,4 +1,4 @@
-# 👋 Hi, I'm McComstone Caseres
+# 👋 Hi, I'm Mac
 
 ## 💻 About Me
 - 🎓 Information Technology Student | Aspiring Full-Stack Developer
