@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @CodeDebugMc
+# 👋 Hi, I'm McComstone Caseres
 
 ## 💻 About Me
 - 🎓 Information Technology Student | Aspiring Full-Stack Developer
