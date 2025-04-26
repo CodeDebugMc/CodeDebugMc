@@ -25,4 +25,4 @@
 </p>
 
 ## 🧠 Fun Fact
-- I can spend hours debugging a missing semicolon — and love every second of it. 🔥
+- I once fixed a bug by accident. I still don't know how. 🤷‍♂️
